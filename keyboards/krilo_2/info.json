@@ -1,0 +1,17 @@
+{
+    "keyboard_name": "Krilo_2",
+    "manufacturer": "Krilo Keypads",
+    "url": "",
+    "maintainer": "qmk",
+    "lighting": "qmk_backlight",
+    "usb": {
+        "vid": "0x3141",
+        "pid": "0x0001",
+        "device_version": "0.1.0"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [{"x":0, "y":0}, {"x":1, "y":0}]
+        }
+    }
+}

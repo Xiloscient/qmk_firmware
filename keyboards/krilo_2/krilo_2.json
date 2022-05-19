@@ -1,0 +1,12 @@
+{
+    "name": "Krilo Keyboards: Krilo_2",
+    "vendorId": "0x3141",
+    "productId": "0x0001",
+    "matrix": {"rows":1, "cols": 2},
+    "lighting": "qmk_backlight",
+    "layouts": {
+        "keymap": [
+                ["0,0", "0,1"]
+            ]
+    }
+}
